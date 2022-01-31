@@ -7,7 +7,7 @@ Nina Hernitschek
 ## Schedule
 
 * Lecture 1 (01/24/2022): [Introduction & Introduction to Python](class_notebooks/lecture_1.ipynb)
-* Lecture 2 (01/31/2022): Astronomical Survey Data
+* Lecture 2 (01/31/2022): [Astronomical Survey Data](class_notebooks/lecture_2.ipynb)
 * Lecture 3 (02/07/2022): Introduction To Probability & Statistics: I
 * Lecture 4 (02/14/2022): Introduction To Probability & Statistics: II
 * Lecture 5 (02/21/2022): Classical/Frequentist Statistical Inference
