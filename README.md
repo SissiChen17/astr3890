@@ -24,3 +24,4 @@ Nina Hernitschek
 ## Assignments
 
 * Homework 1 (due 01/31/2022 @ 11.00am CST) [homework_1.ipynb](homework_notebooks/homework_1.ipynb)
+* Homework 2 (due 02/07/2022 @ 11.00am CST) [homework_2.ipynb](homework_notebooks/homework_2.ipynb)
