@@ -8,7 +8,7 @@ Nina Hernitschek
 
 * Lecture 1 (01/24/2022): [Introduction & Introduction to Python](class_notebooks/lecture_1.ipynb)
 * Lecture 2 (01/31/2022): [Astronomical Survey Data](class_notebooks/lecture_2.ipynb)
-* Lecture 3 (02/07/2022): Introduction To Probability & Statistics: I
+* Lecture 3 (02/07/2022): [Introduction to Probability & Statistics: I](class_notebooks/lecture_3.ipynb)
 * Lecture 4 (02/14/2022): Introduction To Probability & Statistics: II
 * Lecture 5 (02/21/2022): Classical/Frequentist Statistical Inference
 * Lecture 6 (02/28/2022): Bayesian Statistical Inference: I
@@ -25,3 +25,4 @@ Nina Hernitschek
 
 * Homework 1 (due 01/31/2022 @ 11.00am CST) [homework_1.ipynb](homework_notebooks/homework_1.ipynb)
 * Homework 2 (due 02/07/2022 @ 11.00am CST) [homework_2.ipynb](homework_notebooks/homework_2.ipynb)
+* Homework 2 (due 02/14/2022 @ 11.00am CST) [homework_3.ipynb](homework_notebooks/homework_3.ipynb)
