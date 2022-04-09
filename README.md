@@ -18,7 +18,7 @@ Nina Hernitschek
 * Lecture 9 (03/28/2022): [Time Series Analysis: II](class_notebooks/lecture_9.ipynb)
 * Lecture 10 (04/04/2022): [Data Mining \& Machine Learning: Intro to Scikit-Learn](class_notebooks/lecture_10.ipynb)
 * Lecture 11 (04/11/2022): Dimensionality Reduction & Density Estimation
-* Lecture 12 (04/18/2022): Clustering and Unsupervised Classification
+* Lecture 12 (04/18/2022): Clustering & Unsupervised Classification
 * Lecture 13 (04/25/2022): Supervised Classification
 
 ## Assignments
