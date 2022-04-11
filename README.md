@@ -16,10 +16,10 @@ Nina Hernitschek
 * Lecture 7 (03/14/2022): [Bayesian Statistical Inference: II](class_notebooks/lecture_7.ipynb)
 * Lecture 8 (03/21/2022): [Time Series Analysis: I](class_notebooks/lecture_8.ipynb)
 * Lecture 9 (03/28/2022): [Time Series Analysis: II](class_notebooks/lecture_9.ipynb)
-* Lecture 10 (04/04/2022): Data Mining \& Machine Learning: Intro to Scikit-Learn
-* Lecture 11 (04/11/2022): Dimensionality Reduction, Density Estimation & Clustering
-* Lecture 12 (04/18/2022): Classification: Introduction, Supervised Classification
-* Lecture 13 (04/25/2022): Unsupervised Classification
+* Lecture 10 (04/04/2022): [Data Mining \& Machine Learning: Intro to Scikit-Learn](class_notebooks/lecture_10.ipynb)
+* Lecture 11 (04/11/2022): [Dimensionality Reduction & Density Estimation](class_notebooks/lecture_11.ipynb)
+* Lecture 12 (04/18/2022): Clustering & Unsupervised Classification
+* Lecture 13 (04/25/2022): Supervised Classification
 
 ## Assignments
 
@@ -32,3 +32,5 @@ Nina Hernitschek
 * Homework 7 (due 03/21/2022 @ 11.00am CST) [homework_7.ipynb](homework_notebooks/homework_7.ipynb)
 * Homework 8 (due 03/28/2022 @ 11.00am CST) [homework_8.ipynb](homework_notebooks/homework_8.ipynb)
 * Homework 9 (due 04/04/2022 @ 11.00am CST) [homework_9.ipynb](homework_notebooks/homework_9.ipynb)
+* Homework 10 (due 04/11/2022 @ 11.00am CST) [homework_10.ipynb](homework_notebooks/homework_10.ipynb)
+* Homework 11 (due 18/11/2022 @ 11.00am CST) [homework_11.ipynb](homework_notebooks/homework_11.ipynb)
