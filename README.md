@@ -6,7 +6,7 @@ Nina Hernitschek
 
 ## Schedule
 
-* Lecture 1 (01/24/2022): Introduction & Introduction to Python [Jupyter](class_notebooks/lecture_1.ipynb) [slides](lecture_slides/astr3890_lecture1_introduction_hernitschek.pdf)
+* Lecture 1 (01/24/2022): Introduction & Introduction to Python [Jupyter](class_notebooks/lecture_1.ipynb)    [slides](lecture_slides/astr3890_lecture1_introduction_hernitschek.pdf)
 * Lecture 2 (01/31/2022): Astronomical Survey Data [Jupyter](class_notebooks/lecture_2.ipynb) [slides](lecture_slides/astr3890_lecture2_astronomicalsurveydata_hernitschek.pdf)
 * Lecture 3 (02/07/2022): Introduction to Probability & Statistics: I [Jupyter](class_notebooks/lecture_3.ipynb) [slides](lecture_slides/astr3890_lecture3_introprobabilitystatisticsI_hernitschek.pdf)
 * Lecture 4 (02/14/2022): Introduction To Probability & Statistics: II [Jupyter](class_notebooks/lecture_4.ipynb) [slides](lecture_slides/astr3890_lecture4_introprobabilitystatisticsII_hernitschek.pdf)
