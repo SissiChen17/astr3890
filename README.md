@@ -19,7 +19,7 @@ Nina Hernitschek
 * Lecture 10 (04/04/2022): [Data Mining \& Machine Learning: Intro to Scikit-Learn](class_notebooks/lecture_10.ipynb)
 * Lecture 11 (04/11/2022): [Dimensionality Reduction & Density Estimation](class_notebooks/lecture_11.ipynb)
 * Lecture 12 (04/18/2022): [Clustering & Unsupervised Classification](class_notebooks/lecture_12.ipynb)
-* Lecture 13 (04/25/2022): Supervised Classification
+* Lecture 13 (04/25/2022): [Supervised Classification](class_notebooks/lecture_13.ipynb)
 
 ## Assignments
 
